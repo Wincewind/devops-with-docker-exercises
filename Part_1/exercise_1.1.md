@@ -1,4 +1,4 @@
-```
+```shell
 >docker ps -a
 CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS     NAMES
 2043a2f25594   nginx     "/docker-entrypoint.…"   42 seconds ago   Exited (0) 12 seconds ago             hopeful_boyd
