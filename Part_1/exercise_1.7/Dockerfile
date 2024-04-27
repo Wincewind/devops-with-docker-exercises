@@ -11,5 +11,5 @@ COPY script.sh .
 # Add execution permissions during the build.
 RUN chmod +x script.sh
 
-# When running docker run the command will be ./script.sh
-CMD ./script.sh
+# When running docker entrypoint will be ./script.sh
+ENTRYPOINT [ "./script.sh" ]
