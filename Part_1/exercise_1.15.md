@@ -1,1 +1,1 @@
-https://hub.docker.com/repository/docker/wincewind/pathfinding_simulation/general
+https://hub.docker.com/r/wincewind/pathfinding_simulation
